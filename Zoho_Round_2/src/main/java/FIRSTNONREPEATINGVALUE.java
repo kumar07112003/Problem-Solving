@@ -1,5 +1,3 @@
-package solving;
-
 
 import java.util.Arrays;
 
